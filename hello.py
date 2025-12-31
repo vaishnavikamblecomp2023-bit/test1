@@ -1,7 +1,7 @@
 # Simple Python program
 
-def greet(name):
+def greet(vaishnavi):
     print(f"Hello, {Vaishnavi}! Welcome to Python.")
 
 name = input("Enter your name: ")
-greet(name)
+greet(Vaishnavi)
